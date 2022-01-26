@@ -1,6 +1,4 @@
 ### Hi! I am João Paulo Lima👋
-
-- 🔭 I’m currently working on a machine learning project.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on creating several applications with machine learning.
 - 💬 Ask me about physics, math, politics, music...
